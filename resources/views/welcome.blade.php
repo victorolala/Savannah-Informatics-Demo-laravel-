@@ -38,7 +38,7 @@
      
                 <div class="row">
                                                     
-                    <div class="col-lg-6 pt-5">
+                    <div class="col-lg-12 pt-5">
 
                         <div class="dt-responsive table-responsive">
                             <p>api/users</p>
@@ -89,7 +89,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-6 pt-5">
+                    <div class="col-lg-12 pt-5">
 
                         <div class="dt-responsive table-responsive">
                             <p>api/albums</p>
@@ -123,7 +123,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-6 pt-5">
+                    <div class="col-lg-12 pt-5">
 
                         <div class="dt-responsive table-responsive">
                             <p>api/photos</p>
