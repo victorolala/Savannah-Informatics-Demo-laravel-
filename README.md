@@ -12,3 +12,5 @@ run 'php artisan migrate' </br>
 php artisan serve
 
 <img src="landing.png" alt="Savannah Informatics Landing Page">
+<img src="user.png" alt="Savannah Informatics Landing Page">
+<img src="album.png" alt="Savannah Informatics Landing Page">
