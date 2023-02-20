@@ -45,3 +45,7 @@ Route::get('/', function () {
     // return view('admin.lincense', compact('responses'));
     return view('welcome', compact('responses', 'albums', 'photo_album'));
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
